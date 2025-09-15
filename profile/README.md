@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.steinberg.net/nuendo/">
+  <a href="https://nuendo-post-production.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_Nuendo-blue?style=for-the-badge&logo=steinberg" alt="Get Nuendo"/>
   </a>
 </p>
